@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Vinayak+Khavare;AI/ML+Engineer+in+making;Building+cool+things+with+LLMs;Always+learning+💡&center=true&width=500&height=45&font=Fira+Code&color=58A6FF&size=22&static=true" alt="Static Lines" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey%20there!%20I'm%20Vinayak%20Khavare;AI/ML%20Engineer%20in%20making;Building%20cool%20things%20with%20LLMs;Always%20learning%20💡&ampcenter=true&ampwidth=500&ampheight=45&ampfont=Fira%20Code&ampcolor=58A6FF&ampsize=22&ampstatic=true" alt="Static Lines" />
 </p>
 
 ---
