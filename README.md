@@ -1,9 +1,11 @@
 <!-- Profile Readme with Light/Dark Mode Switch & Animated Header -->
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Vinayak+Khavare;AI/ML+Engineer+in+making;Building+cool+things+with+LLMs;Always+learning%20💡&center=true&width=500&height=45&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Vinayak+Khavare;AI/ML+Engineer+in+making;Building+cool+things+with+LLMs;Always+learning+💡&center=true&width=500&height=45&font=Fira+Code&color=58A6FF&size=22&static=true" alt="Static Lines" />
 </p>
 
+---
 <p align="center">
   <img src="./assets/20250619_1008_Cyberpunk Tech Banner_simple_compose_01jy37mkbcfptr15yn7q3ydwzt.png" width="95%" alt="Vinayak Banner"/>
 </p>
@@ -63,7 +65,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vinayak-Khavare&theme=tokyonight&hide_border=true" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Vinayak-Khavare&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&random=12345" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
